@@ -1,0 +1,16 @@
+.one {
+    background-color: black;
+    color: white;
+}
+
+.two {
+    background-color: yellow;
+    color: black;
+}
+
+.click {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+    border-radius: unset;
+    padding: 7px 5px 3px 5px;
+}

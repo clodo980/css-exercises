@@ -1,0 +1,23 @@
+
+.odd {
+    background-color: #ff000055;
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+#two {
+    font-size: 2rem;
+    color: blue;
+}
+
+#four {
+    font-weight: bold;
+    background-color: #00ff0055;
+}
+
+#three, #four {
+    font-size: 1.5rem;
+}
+
+#two, #four {
+    font-family: monospace;
+}
